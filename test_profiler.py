@@ -5,6 +5,7 @@ import time
 def fast():
     """"""
     print("This is a very fast print statement")
+    print("This is a print")
     print("I run fast!")
 
 
